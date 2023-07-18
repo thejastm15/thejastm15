@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thejas T M</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **thejastm15@gmail.com**
 
